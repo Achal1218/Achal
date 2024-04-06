@@ -70,4 +70,3 @@ user_query = st.text_input("Enter your question:")
 if st.button("Ask"):
     response = handle_admission_query(user_query)
     st.text("Chatbot: " + response)
-
