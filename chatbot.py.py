@@ -7,8 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1aozdxuMxrHTgZUEv7U7KvFas4-1ABD3f
 """
 
-//!pip install nltk
-//!pip install streamlit
+
 
 import pandas as pd
 import nltk
